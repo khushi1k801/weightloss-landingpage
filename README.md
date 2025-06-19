@@ -4,7 +4,7 @@ This is a **fully responsive landing page** for a weight loss product, built usi
 
 ## 🔗 Live Demo
 
-[👉 View Live Website](https://your-live-link.netlify.app)
+[👉 View Live Website](https://khushi1k801.github.io/weightloss-landingpage/)
 
 ## 📁 GitHub Repository
 
